@@ -1,0 +1,10 @@
+body{
+    background-color:rgb(47, 47, 47);
+    color:white;
+}
+
+header{
+    background-color:rgb(64, 63, 63);
+    padding:16px;
+    border-radius:16px;
+}
