@@ -9,3 +9,11 @@ header {
   padding: 16px;
   border-radius: 16px;
 }
+
+article.a1 {
+  background-color: rgb(64, 63, 63);
+  padding: 16px;
+  border-radius: 16px;
+  margin-top: 16px;
+  margin-left:auto;
+}
