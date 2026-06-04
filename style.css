@@ -1,20 +1,26 @@
 body {
-  background-color: rgb(47, 47, 47);
+  background-image: url('stars.png');
   color: white;
   font-family:'sans-serif';
+  background-repeat: repeat;
 }
 
 header {
-  background-color: rgb(92, 92, 92);
+  background-color: rgb(42, 42, 42);
   padding: 16px;
   border-radius: 16px;
+  border: 3px solid gray;
 }
 
 article.a1 {
-  background-color: rgb(92, 92, 92);
+  background-color: rgb(42, 42, 42);
+  border: 3px solid gray;
   padding: 16px;
   border-radius: 16px;
   margin-top: 16px;
   margin-right: auto;
   width: 50%;
+}
+.glow {
+  box-shadow: 0px 0px 15px 5px rgba(255, 255, 255, 0.6);
 }
