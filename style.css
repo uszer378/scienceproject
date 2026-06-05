@@ -15,8 +15,6 @@ header {
   padding: 60px 20px;
   color:black;
   box-sizing: border-box;
-  animation:animate__backInDown;
-  animation-duration: 1s;
 }
 
 article.a1 {
