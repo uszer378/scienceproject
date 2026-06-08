@@ -41,3 +41,7 @@ div.lineem{
   display: flex;
   justify-content: space-around;
 }
+.acent{
+  text-align: center;
+  color: rgb(97, 183, 233);
+}
